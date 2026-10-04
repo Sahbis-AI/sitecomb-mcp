@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.sitecomb/check-website",
+  "title": "Sitecomb",
+  "description": "A digital audit for small-business websites: a score out of 100 and the main problems.",
+  "version": "1.0.0",
+  "websiteUrl": "https://sitecomb.com/claude",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://sitecomb.com/mcp"
+    }
+  ]
+}
