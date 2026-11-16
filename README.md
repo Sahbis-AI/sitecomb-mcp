@@ -28,7 +28,7 @@ The full quality report, with a fix for every problem, is at https://sitecomb.co
 
 ## About
 
-Sitecomb is a product of Sahbis Limited, a company registered in Ireland (No. 821013). Website: https://sitecomb.com · Contact: hello@sitecomb.com · Privacy: https://sitecomb.com/privacy · Terms: https://sitecomb.com/terms
+Website: https://sitecomb.com · Contact: hello@sitecomb.com · Privacy: https://sitecomb.com/privacy · Terms: https://sitecomb.com/terms
 
 ## Licence
 
