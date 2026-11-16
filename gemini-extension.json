@@ -1,0 +1,6 @@
+{
+  "name": "sitecomb",
+  "version": "1.0.5",
+  "description": "Website quality review: security, privacy, page health, mobile, contact details, found in AI search.",
+  "mcpServers": { "sitecomb": { "httpUrl": "https://sitecomb.com/mcp" } }
+}
