@@ -2,7 +2,7 @@
 
 # Sitecomb: website quality review for any website (MCP server)
 
-Sitecomb checks any public website, including ones built with AI tools, and gives it a **website quality review** across six areas: Security, Privacy & legal, Page health, Works on phones, Contact details, and Found online (including AI search). The review is scored out of 100 and shows the **areas that have problems**, with a count for each.
+Sitecomb checks any public website, including ones built with AI tools, and gives it a **website quality review** across six areas: Security, Privacy & legal, Page health, Phone friendly, Contact details, and Online visibility (including AI search). The review is scored out of 100 and shows the **areas that have problems**, with a count for each.
 
 This is a **hosted, remote MCP server**. There is nothing to install or run, and no code in this repository: it holds the server description (`server.json`) and this page.
 
@@ -16,7 +16,7 @@ This is a **hosted, remote MCP server**. There is nothing to install or run, and
 
 | Tool | What it does |
 |---|---|
-| `check_website` | Checks a public website the way a visitor's browser loads it. Returns a website quality review across six areas (Security, Privacy & legal, Page health, Works on phones, Contact details, Found online): the areas that have problems, with a count for each, and an overall score out of 100. It only reads public pages; it never changes anything on the site. |
+| `check_website` | Checks a public website the way a visitor's browser loads it. Returns a website quality review across six areas (Security, Privacy & legal, Page health, Phone friendly, Contact details, Online visibility): the areas that have problems, with a count for each, and an overall score out of 100. It only reads public pages; it never changes anything on the site. |
 
 Checks are limited per person and per website each day. If a site is down or blocks automated checkers, Sitecomb says it couldn't check and gives no website quality review.
 
